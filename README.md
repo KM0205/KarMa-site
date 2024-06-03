@@ -11,7 +11,7 @@
     <script src="ScrollTrigger.min.js" defer></script>
     <script src="ScrollSmoother.min.js" defer></script>
 
-    <link rel="stylesheet" href="[KarMa-style.css](https://github.com/KM0205/KarMa-site/blob/460b2cb00b6cdca758733946cd28be00b0b84a07/KarMa-style.css)">
+    <link rel="stylesheet" href="https://github.com/KM0205/KarMa-site/blob/460b2cb00b6cdca758733946cd28be00b0b84a07/KarMa-style.css">
     <script src="app.js" defer></script>
 
 </head>
