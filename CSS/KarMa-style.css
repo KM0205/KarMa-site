@@ -98,7 +98,7 @@ body {
 }
 
 .text-block__h {
-    font-size: 6em;
+    font-size: 2em;
     line-height: 2.4em;
     color: var(--color-header);
     margin-bottom: 1.5em;
