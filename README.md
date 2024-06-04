@@ -7,12 +7,12 @@
     
     <title>scroll</title>
 
-    <script src="gsap.min.js" defer></script>
-    <script src="ScrollTrigger.min.js" defer></script>
-    <script src="ScrollSmoother.min.js" defer></script>
+    <script src="libs/gsap/gsap.min.js" defer></script>
+    <script src="libs/gsap/ScrollTrigger.min.js" defer></script>
+    <script src="libs/gsap/ScrollSmoother.min.js" defer></script>
 
-    <link rel="stylesheet" href="KarMa-style.css">
-    <script src="app.js" defer></script>
+    <link rel="stylesheet" href="CSS/KarMa-style.css">
+    <script src="js/app.js" defer></script>
 
 </head>
 <body>
@@ -21,7 +21,7 @@
             <header class="hero-section">
                 <!-- Для движения картинка с отставанием (лагом) <img data-lag=".5" data-speed=".6" class="hero" src="img/hero.png" alt="Hero"> -->
                 <!-- <img data-speed=".6" class="hero" src="img/hero.png" alt="Hero"> -->
-                <img data-speed=".6" class="hero" src="hero_2_KarMa (2).png" alt="Hero">
+                <img data-speed=".6" class="hero" src="img/hero_2_KarMa (2).png" alt="Hero">
                 <div class="conteiner">
                     <div data-speed=".7" class="main-header">
                         <h1 class="main-title">Karim <p align="center">&</p> Malika</h1>
@@ -34,15 +34,15 @@
                     <main class="gallery">
                         <div data-speed=".9" class="gallery__left">
                             
-                            <img class="gallery__item" src="House_Karim.jpg" alt="...">
-                            <img class="gallery__item" src="Robot_Karim.jpg" alt="...">
+                            <img class="gallery__item" src="img/House_Karim.jpg" alt="...">
+                            <img class="gallery__item" src="img/Robot_Karim.jpg" alt="...">
                                                         
                             <div class="text-block gallery__item">
                                 <h2 class="text-block__h">Что такое: no enter - no escape?</h2>
                                 <p class="text-block__p">Сломанная клавиатура!</p>
                             </div>
                             
-                            <img class="gallery__item" src="Shark_Karim.jpg" alt="...">
+                            <img class="gallery__item" src="img/Shark_Karim.jpg" alt="...">
         
                         </div>
                         <div data-speed="1.1" class="gallery__right">
@@ -51,9 +51,9 @@
                                 <h2 class="text-block__h">СРОЧНО ПРОДАМ!!!</h2>
                                 <p class="text-block__p">"мышь" в отличном состоянии, со всеми наворотами, пробег-5000 км!</p>
                             </div>
-                            <img class="gallery__item" src="Robot_Malika.jpg" alt="...">
-                            <img class="gallery__item" src="House_Malika.jpg" alt="...">
-                            <img class="gallery__item" src="Shark_2_Karim.jpg" alt="...">
+                            <img class="gallery__item" src="img/Robot_Malika.jpg" alt="...">
+                            <img class="gallery__item" src="img/House_Malika.jpg" alt="...">
+                            <img class="gallery__item" src="img/Shark_2_Karim.jpg" alt="...">
         
                         </div>
                     </main>
