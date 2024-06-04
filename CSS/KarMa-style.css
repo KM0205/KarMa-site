@@ -46,7 +46,7 @@ body {
     /* top: 8vh; */
     left: 65vw;
     top: -3vh;
-    z-index: -2;
+    z-index: -1;
 }
 
 .main-header {
@@ -98,7 +98,7 @@ body {
 }
 
 .text-block__h {
-    font-size: 2rem;
+    font-size: 6rem;
     line-height: 2.4rem;
     color: var(--color-header);
     margin-bottom: 1.5rem;
