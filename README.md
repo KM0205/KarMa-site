@@ -12,6 +12,7 @@
     <script src="libs/gsap/ScrollSmoother.min.js" defer></script>
 
     <link rel="stylesheet" href="CSS/KarMa-style.css">
+    <script src="js/app.js" defer></script>
     
 </head>
 <body>
