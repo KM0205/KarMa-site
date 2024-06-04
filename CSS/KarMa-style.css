@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: realway-c;
-    src: url(../raleway-regular.woff2);
+    src: url(../fonts/raleway-regular.woff2);
 }
 
 @font-face {
     font-family: outfit-c;
-    src: url(../outfit-regular.woff2);
+    src: url(../fonts/outfit-regular.woff2);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-    background-image: url(../bg.jpg);
+    background-image: url(../img/bg.jpg);
     background-size: 50px;
     color: #fafafa;
     font-family: realway-c;
